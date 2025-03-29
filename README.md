@@ -1,2 +1,2 @@
 # Aryan-demo
-this is my first repositary
+This is my first repositary
